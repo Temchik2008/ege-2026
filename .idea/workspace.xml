@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="537cb370-76a8-4a59-b73f-4f2930003787" name="Changes" comment="">
+    <list default="true" id="537cb370-76a8-4a59-b73f-4f2930003787" name="Changes" comment="gitignor">
+      <change afterPath="$PROJECT_DIR$/25-05-25/Lasen4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-05-25/lastan4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-05-25/lesen4.2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/дз25.01.25/дз1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/дз25.01.25/дз2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/дз25.01.25/дз3.py" afterDir="false" />
@@ -15,6 +18,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,14 +45,20 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2rfXU0jByx0sTAfBoDQRn1zcuil" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Lasen4.1.executor": "Run",
+    "Python.lasen5.1.executor": "Run",
+    "Python.lasen5.executor": "Run",
     "Python.lastan1.executor": "Run",
+    "Python.lastan4.executor": "Run",
     "Python.дз5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -96,6 +112,19 @@
       <option name="presentableId" value="Default" />
       <updated>1736951116018</updated>
     </task>
+    <task id="LOCAL-00001" summary="gitignor">
+      <option name="closed" value="true" />
+      <created>1737801578554</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737801578554</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gitignor" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignor" />
   </component>
 </project>
