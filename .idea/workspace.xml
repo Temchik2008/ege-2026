@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="537cb370-76a8-4a59-b73f-4f2930003787" name="Changes" comment="gitignor">
-      <change afterPath="$PROJECT_DIR$/25-05-25/Lasen4.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25-05-25/lastan4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25-05-25/lesen4.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз25.01.25/дз1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз25.01.25/дз2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз25.01.25/дз3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз25.01.25/дз5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,12 +47,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.1.executor": "Run",
     "Python.Lasen4.1.executor": "Run",
+    "Python.Lesen7.executor": "Run",
     "Python.lasen5.1.executor": "Run",
     "Python.lasen5.executor": "Run",
     "Python.lastan1.executor": "Run",
     "Python.lastan4.executor": "Run",
+    "Python.дз 5.executor": "Run",
+    "Python.дз1.executor": "Run",
+    "Python.дз2.executor": "Run",
+    "Python.дз3.executor": "Run",
+    "Python.дз4.executor": "Run",
     "Python.дз5.executor": "Run",
+    "Python.пждив.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -120,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737801578554</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="gitignor">
+      <option name="closed" value="true" />
+      <created>1738166148454</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738166148454</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
